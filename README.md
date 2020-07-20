@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Lakshya here!
+<h1 align='center'>Hey 👋, This is Lakshya Ojha</h1>
+<p align = 'center'> 
+ <a href = https://www.linkedin.com/in/ojhalakshya target='blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
+<h2 align='center'>About Me🤓</h2>
+<p align='center'>Hi I am Lakshya Ojha</p><h2 align='center'>Connect with me  📫 </h2>
+<p align = 'center'> 
+ <a href = https://github.com/ojhalakshya target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
+<a href = https://www.linkedin.com/in/ojhalakshya target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+
 
 <!--
 **ojhalakshya/ojhalakshya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
