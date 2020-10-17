@@ -1,6 +1,8 @@
 <h1 align='center'>Hi 👋, I am Lakshya</h1>
 <h3 align='center'>Making machines Aatm Nirbhar🇮🇳🤓</h3>
 
+<p align="center"><img src=https://github.com/ojhalakshya/CPP/blob/master/.vscode_backup/565-5651738_namaste-namaste-symbol-clipart-removebg-preview.jpg?raw=true height='300' weight='300'></p>
+
 
 - 🔭  I am an open source contributor and currently I am working with machine learning libraries like [mlpack](https://github.com/mlpack/mlpack "mlpack").
 
